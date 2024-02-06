@@ -1,0 +1,131 @@
+*{
+    margin: 2px;
+}
+
+body{
+    font-size:24px;
+    color: white;
+    height: 100vh;
+    text-align: center;
+    color: black;
+    
+}
+.flex-header{
+    background-color: rgb(6, 88, 88);
+    height: 90px;
+    width: 500;
+    letter-spacing: 2px;
+}
+.flexbody{
+    display: flex;
+    
+}
+.flexbody2{
+    display: flex;
+    flex-direction: row;
+    
+    flex-wrap: wrap;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    
+    border: 2px solid white;
+    height: 300px;
+    width: 1220px;
+}
+.item{
+    
+    background-color: blue;
+    height: 280px;
+    width: 1220px;
+}
+
+.flex-main{
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-around;
+     border: 2px solid white ;
+    height: 200px;
+    width: 1220px;
+}
+
+.box1{
+    display: flex;
+    background-color: blue; 
+    justify-content: space-around;
+    align-items: center;
+    height: 190px;
+    width:380px;
+}
+.box2{
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+    align-items: center;
+    height: 190px;
+    width:380px;
+}
+.box3{
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+    align-items: center;
+    height: 190px;
+    width:380px;
+}
+
+.text4{
+    background-color: white;
+    
+    height: 120px;
+    width:250px;
+}
+.text5{
+    background-color: white;
+    
+    height: 120px;
+    width: 250px;
+}
+.text6{
+    background-color: white;
+   
+    height: 120px;
+    width: 250px;
+}
+
+
+.flex-cross{
+    display: flex;
+    background-color: rgb(4, 53, 53);
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid ;
+    height: 500px;
+    width: 500px;
+}
+.text1{
+    background-color: white;
+    
+    height: 120px;
+    width:180px;
+}
+.text2{
+    background-color: white;
+    
+    height: 120px;
+    width: 180px;
+}
+.text3{
+    background-color: white;
+    
+    height: 120px;
+    width: 180px;
+}
+.flex-footer{
+    background-color: rgb(6, 88, 88);
+    height: 90px;
+    width: 500;
+}

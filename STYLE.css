@@ -1,0 +1,154 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.header{
+    height: 73px;
+    outline: 1px solid #ccc;
+    padding:0px 10px;
+    display:flex;
+    align-items:center;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+}
+.logocontainer{
+    background-color: rgb(95, 6, 51);
+    height: 70px;
+    width:150px;
+
+
+}
+
+.searchcontainer{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 200px;
+
+}
+.downloadapp{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 200px;
+
+}
+.supplier{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 190px;
+
+  
+}
+.newsroom{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 190px;
+
+}
+.profile{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 190px;
+
+}
+.cart{
+    background-color: rgb(56, 164, 184);
+    height: 70px;
+    width: 190px;
+
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-style: solid;
+    height: 50px;
+
+}
+
+.item1{
+    background-color: rgb(13, 105, 75);
+
+}
+.item2{
+    background-color: rgb(13, 105, 75);
+}
+.item3{
+    background-color: rgb(13, 105, 75);
+}
+.item4{
+    background-color: rgb(13, 105, 75);
+}
+.item5{
+    background-color: rgb(13, 105, 75);
+}
+.item6{
+    background-color: rgb(13, 105, 75);
+}
+.item7{
+    background-color: rgb(13, 105, 75);
+}
+.item8{
+    background-color: rgb(13, 105, 75);
+}
+.item9{
+    background-color: rgb(13, 105, 75);
+}
+
+.body1{
+    display:flex;
+    background-color: rgb(58, 145, 151);
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 1510px;
+    text-align: center;
+}
+
+
+
+.container{
+    display:flex;
+    background-color: rgb(185, 180, 102);
+    flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
+    width: 450px;
+}
+.heading{
+    background-color: rgb(119, 189, 87);
+    height: 70px;
+    width: 380px;
+}
+.image{
+    background-color: rgb(119, 189, 87);
+    height: 50px;
+    width: 380px;
+}
+.download{
+    background-color: rgb(119, 189, 87);
+    height: 30px;
+    width: 300px;
+}
+.container2{
+    display:flex;
+    background-color: solid;
+    height: 300px;
+    width: 450px;
+}
+.Adimage{
+    background-color: rgb(180, 111, 91);
+    height: 300px;
+    width: 450px;
+}
+
